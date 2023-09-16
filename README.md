@@ -4,7 +4,7 @@
 
 - Create a request to a remote resource.
 - Handle the response.
-- Learn how to parse JSON.
+- Learn how to parse JSON...
 
 ***
 
